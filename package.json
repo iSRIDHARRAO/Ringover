@@ -1,0 +1,32 @@
+{
+  "name": "rabbit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "consumer1.js",
+  "dependencies": {
+    "amqplib": "^0.10.3",
+    "body-parser": "^1.20.1",
+    "buffer-more-ints": "^1.0.0",
+    "core-util-is": "^1.0.3",
+    "debug": "^4.3.4",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "inherits": "^2.0.4",
+    "isarray": "^0.0.1",
+    "ms": "^2.1.2",
+    "mysql2": "^2.3.3",
+    "querystringify": "^2.2.0",
+    "readable-stream": "^1.1.14",
+    "redis": "^4.5.1",
+    "requires-port": "^1.0.0",
+    "safe-buffer": "^5.1.2",
+    "sequelize": "^6.11.0",
+    "string_decoder": "^0.10.31",
+    "url-parse": "^1.5.10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
