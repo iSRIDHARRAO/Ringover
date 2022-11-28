@@ -1,7 +1,7 @@
 # Ringover Backend Task 
 
 ## Architecture 
-
+![Architecture Image](https://github.com/iSRIDHARRAO/Ringover/blob/main/RingOver.png)
 ## Tools used :-
 ### Node JS as JavaScript Runtime.
 ### RabbitMQ as Message broker between processes.
